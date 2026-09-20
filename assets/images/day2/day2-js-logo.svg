@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="title desc">
+  <title id="title">Logo JavaScript sederhana</title>
+  <desc id="desc">Kotak kuning dengan teks JS dan contoh console log.</desc>
+  <rect width="320" height="200" rx="18" fill="#f5c542"/>
+  <rect x="24" y="24" width="272" height="152" rx="12" fill="#111827"/>
+  <text x="48" y="78" fill="#f5c542" font-family="Arial, sans-serif" font-size="52" font-weight="800">JS</text>
+  <text x="48" y="118" fill="#e5e7eb" font-family="Consolas, monospace" font-size="20">console.log("Halo");</text>
+  <text x="48" y="148" fill="#93c5fd" font-family="Consolas, monospace" font-size="20">Halo</text>
+</svg>

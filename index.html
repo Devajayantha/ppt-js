@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JavaScript Day 2-5 | Presentasi Interaktif</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="brand" data-home>JS Day 2-5</button>
+    <div class="crumbs" id="crumbs">Daftar Materi</div>
+    <div class="top-actions">
+      <button id="helpBtn" title="Bantuan keyboard">?</button>
+      <button id="fullBtn" title="Fullscreen">⛶</button>
+    </div>
+  </header>
+
+  <main id="app"></main>
+
+  <dialog id="helpDialog">
+    <button class="dialog-close" data-close-help>×</button>
+    <h2>Bantuan Keyboard</h2>
+    <p><kbd>←</kbd> dan <kbd>→</kbd> untuk pindah slide.</p>
+    <p><kbd>Esc</kbd> untuk kembali ke indeks hari.</p>
+    <p><kbd>F</kbd> untuk fullscreen.</p>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

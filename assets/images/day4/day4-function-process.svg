@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 230" role="img" aria-labelledby="title desc">
+  <title id="title">Function menerima input dan memberi output</title>
+  <desc id="desc">Nilai tugas dan ujian masuk ke function hitung rata-rata lalu keluar hasil 85.</desc>
+  <rect width="460" height="230" rx="18" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" font-weight="800">
+    <rect x="28" y="72" width="95" height="58" rx="10" fill="#eaf2ff" stroke="#2677d9" stroke-width="3"/>
+    <text x="75" y="106" font-size="20" fill="#17202a">80, 90</text>
+    <path d="M130 101 H178" stroke="#2677d9" stroke-width="5"/>
+    <rect x="185" y="54" width="135" height="94" rx="14" fill="#111827"/>
+    <text x="252" y="90" font-size="18" fill="#f5c542">function</text>
+    <text x="252" y="120" font-size="18" fill="#e5e7eb">rata-rata</text>
+    <path d="M328 101 H378" stroke="#2677d9" stroke-width="5"/>
+    <rect x="385" y="72" width="50" height="58" rx="10" fill="#e7f8ef" stroke="#1f9d62" stroke-width="3"/>
+    <text x="410" y="107" font-size="20" fill="#137a45">85</text>
+  </g>
+</svg>

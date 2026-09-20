@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" role="img" aria-labelledby="title desc">
+  <title id="title">Diagram if else</title>
+  <desc id="desc">Alur kondisi nilai lebih besar sama dengan 75 menuju lulus atau belum lulus.</desc>
+  <rect width="420" height="240" rx="18" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle" font-size="18" font-weight="700">
+    <rect x="135" y="24" width="150" height="56" rx="10" fill="#eaf2ff" stroke="#2677d9" stroke-width="3"/>
+    <text x="210" y="58" fill="#17202a">nilai ≥ 75?</text>
+    <path d="M170 82 L105 132" stroke="#2677d9" stroke-width="4" fill="none"/>
+    <path d="M250 82 L315 132" stroke="#2677d9" stroke-width="4" fill="none"/>
+    <rect x="40" y="136" width="130" height="58" rx="10" fill="#e7f8ef" stroke="#1f9d62" stroke-width="3"/>
+    <text x="105" y="170" fill="#137a45">Lulus</text>
+    <rect x="250" y="136" width="130" height="58" rx="10" fill="#fff1f1" stroke="#d94c4c" stroke-width="3"/>
+    <text x="315" y="170" fill="#a72d2d">Belum</text>
+    <text x="122" y="116" fill="#1f9d62">true</text>
+    <text x="298" y="116" fill="#d94c4c">false</text>
+  </g>
+</svg>

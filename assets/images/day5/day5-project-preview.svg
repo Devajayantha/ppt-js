@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" role="img" aria-labelledby="title desc">
+  <title id="title">Preview aplikasi daftar nilai siswa</title>
+  <desc id="desc">Form input nilai dan tabel daftar siswa dengan status lulus.</desc>
+  <rect width="560" height="320" rx="18" fill="#eef2f7"/>
+  <rect x="34" y="30" width="492" height="260" rx="14" fill="#ffffff" stroke="#d9e1ec"/>
+  <text x="60" y="70" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#17202a">Daftar Nilai Siswa</text>
+  <rect x="60" y="92" width="180" height="34" rx="6" fill="#f8fafc" stroke="#d9e1ec"/>
+  <rect x="252" y="92" width="90" height="34" rx="6" fill="#f8fafc" stroke="#d9e1ec"/>
+  <rect x="354" y="92" width="90" height="34" rx="6" fill="#f8fafc" stroke="#d9e1ec"/>
+  <rect x="456" y="92" width="45" height="34" rx="6" fill="#2677d9"/>
+  <text x="75" y="115" font-family="Arial, sans-serif" font-size="14" fill="#637083">Nama</text>
+  <text x="268" y="115" font-family="Arial, sans-serif" font-size="14" fill="#637083">Tugas</text>
+  <text x="372" y="115" font-family="Arial, sans-serif" font-size="14" fill="#637083">Ujian</text>
+  <text x="66" y="166" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#637083">Nama</text>
+  <text x="218" y="166" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#637083">Rata-rata</text>
+  <text x="365" y="166" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#637083">Status</text>
+  <line x1="60" y1="180" x2="500" y2="180" stroke="#d9e1ec"/>
+  <text x="66" y="212" font-family="Arial, sans-serif" font-size="16" fill="#17202a">Made</text>
+  <text x="235" y="212" font-family="Arial, sans-serif" font-size="16" fill="#17202a">87.5</text>
+  <rect x="358" y="193" width="70" height="28" rx="14" fill="#e7f8ef"/>
+  <text x="393" y="212" font-family="Arial, sans-serif" font-size="14" font-weight="800" fill="#137a45" text-anchor="middle">Lulus</text>
+</svg>

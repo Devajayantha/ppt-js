@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-labelledby="title desc">
+  <title id="title">Variabel sebagai kotak penyimpanan</title>
+  <desc id="desc">Tiga kotak variabel berlabel nama, umur, dan sekolah.</desc>
+  <rect width="360" height="220" rx="18" fill="#eef6ff"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="30" y="58" width="90" height="90" rx="10" fill="#ffffff" stroke="#2677d9" stroke-width="4"/>
+    <text x="75" y="94" font-size="16" fill="#637083">nama</text>
+    <text x="75" y="124" font-size="22" font-weight="800" fill="#17202a">Made</text>
+    <rect x="135" y="58" width="90" height="90" rx="10" fill="#ffffff" stroke="#1f9d62" stroke-width="4"/>
+    <text x="180" y="94" font-size="16" fill="#637083">umur</text>
+    <text x="180" y="124" font-size="22" font-weight="800" fill="#17202a">15</text>
+    <rect x="240" y="58" width="90" height="90" rx="10" fill="#ffffff" stroke="#f5c542" stroke-width="4"/>
+    <text x="285" y="94" font-size="16" fill="#637083">sekolah</text>
+    <text x="285" y="124" font-size="22" font-weight="800" fill="#17202a">SMK</text>
+  </g>
+</svg>
